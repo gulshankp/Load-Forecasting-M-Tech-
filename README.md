@@ -1,4 +1,4 @@
-<h1>Short-Term Load Forecasting</h1>
+# Short-Term Load Forecasting
 
 This repository contains the program developed during my M.Tech in Integrated Power Systems, aimed at predicting the short-term electrical load for power systems. The project compares different machine learning models to forecast future power demand, including traditional regression models and advanced deep learning architectures.
 
@@ -58,7 +58,7 @@ Both datasets were preprocessed to handle missing values and outliers before bei
 
 The following models were implemented and compared:
 
-•	Regression Models: Linear Regression, Decision Trees
+•	Regression Models: Linear Regression, Decision Trees, Random Forest, Support Vector Machine
 
 •	ARIMA: AutoRegressive Integrated Moving Average
 
